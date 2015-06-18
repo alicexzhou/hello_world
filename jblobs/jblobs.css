@@ -1,0 +1,25 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#comment {
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 273px;
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    background-color: #000029;
+}
